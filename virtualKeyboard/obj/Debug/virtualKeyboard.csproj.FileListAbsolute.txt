@@ -1,0 +1,14 @@
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\bin\Debug\virtualKeyboard.exe
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\bin\Debug\virtualKeyboard.pdb
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\MainWindow.g.cs
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\App.g.cs
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard_MarkupCompile.cache
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard_MarkupCompile.lref
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\MainWindow.baml
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.g.resources
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.Properties.Resources.resources
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.csproj.GenerateResource.Cache
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.csproj.CoreCompileInputs.cache
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.exe
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\virtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.pdb
+D:\VisualStudio_WorkSpaces\VirtualKeyboard\VirtualKeyboard\virtualKeyboard\obj\Debug\virtualKeyboard.csprojResolveAssemblyReference.cache
